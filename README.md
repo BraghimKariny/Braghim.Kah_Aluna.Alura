@@ -6,4 +6,3 @@ Meu nome é Kariny Braghim
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-![](https://tenor.com/bYg0J.gif)
